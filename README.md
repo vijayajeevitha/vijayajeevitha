@@ -28,14 +28,11 @@
      degree      = "B.E Cyber Security @ SRM Valliammai Engineering College";
      cgpa        = "9.0 / 10.0  (2023 – 2027)";
      role        = "Cyber Security Student | Java Full Stack Developer";
-
-     languages = { "Java", "JavaScript", "HTML", "CSS", "SQL" };
+     languages   = { "Java", "JavaScript", "HTML", "CSS", "SQL" };
 
      currentlyLearning = {" Web Exploitation", "OWASP Top 10", "Spring Security", "Docker", "eJPT Prep "}
 
      interests = {" Ethical Hacking", "Secure App Development", "DSA & Problem Solving", "Open Source" }
-
-     mottivation : {" Security is not a product, but a process. " + "Every secure application begins with secure code." }
 
 ```
 
