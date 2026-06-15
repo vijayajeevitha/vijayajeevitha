@@ -21,31 +21,22 @@
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```java
-public class VijayaJeevitha {
 
-    String name        = "Vijaya Jeevitha V";
-    String location    = "Guduvancherry, Chennai, India";
-    String degree      = "B.E Cyber Security @ SRM Valliammai Engineering College";
-    String cgpa        = "9.0 / 10.0  (2023 – 2027)";
-    String role        = "Cyber Security Student | Java Full Stack Developer";
 
-    String[] languages = { "Java", "JavaScript", "HTML", "CSS", "SQL" };
+     name        = "Vijaya Jeevitha V";
+     location    = "Guduvancherry, Chennai, India";
+     degree      = "B.E Cyber Security @ SRM Valliammai Engineering College";
+     cgpa        = "9.0 / 10.0  (2023 – 2027)";
+     role        = "Cyber Security Student | Java Full Stack Developer";
 
-    String[] currentlyLearning = {
-        "Web Exploitation", "OWASP Top 10",
-        "Spring Security", "Docker", "eJPT Prep"
-    };
+     languages = { "Java", "JavaScript", "HTML", "CSS", "SQL" };
 
-    String[] interests = {
-        "Ethical Hacking", "Secure App Development",
-        "DSA & Problem Solving", "Open Source"
-    };
+     currentlyLearning = {" Web Exploitation", "OWASP Top 10", "Spring Security", "Docker", "eJPT Prep "}
 
-    String motto() {
-        return "Security is not a product, but a process. "
-             + "Every secure application begins with secure code.";
-    }
-}
+     interests = {" Ethical Hacking", "Secure App Development", "DSA & Problem Solving", "Open Source" }
+
+     mottivation : {" Security is not a product, but a process. " + "Every secure application begins with secure code." }
+
 ```
 
 <br clear="right"/>
