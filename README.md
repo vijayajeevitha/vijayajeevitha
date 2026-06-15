@@ -1,201 +1,284 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vijaya%20Jeevitha%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20Building%20Secure%20%26%20Scalable%20Web%20Apps&descAlignY=62&descSize=16" width="100%"/>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%94%90+Cyber+Security+%7C+Java+Full+Stack+Dev;%E2%98%95+Backend+Craftsman+%7C+Spring+Boot+%2B+React;%F0%9F%9B%A1%EF%B8%8F+Secure+Code+Advocate+%7C+Ethical+Hacker;%F0%9F%92%A1+DSA+Problem+Solver+%7C+150%2B+LeetCode" alt="Typing SVG" />
-  </a>
-</div>
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vijaya%20Jeevitha%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20Student%20%7C%20Java%20Full%20Stack%20Developer%20%7C%20Building%20Secure%20Applications&descAlignY=62&descSize=16)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&multiline=false&width=600&lines=Cyber+Security+Engineering+Student+%F0%9F%94%90;Java+Full+Stack+Developer+%E2%98%95;Building+Secure+%26+Scalable+Applications+%F0%9F%9A%80;LeetCode+%26+DSA+Enthusiast+%F0%9F%A7%A9;Future+Penetration+Tester+%F0%9F%92%BB)](https://git.io/typing-svg)
+
 <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vijayajeevitha&style=flat-square&color=70A5FD&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijaya-jeevitha-631841301/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://vijayajeevitha.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/vijayajeevitha)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vvijayajeevitha01@gmail.com)
+
+</div>
+
 ---
-🧑‍💻 About Me
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## 🧑‍💻 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ```java
 public class VijayaJeevitha {
 
-    String name         = "Vijaya Jeevitha V";
-    String location     = "Guduvancherry, Chennai, India";
-    String degree       = "B.E. Cyber Security @ SRM Valliammai (2023–2027)";
-    String cgpa         = "9.0 / 10.0";
+    String name        = "Vijaya Jeevitha V";
+    String location    = "Guduvancherry, Chennai, India";
+    String degree      = "B.E Cyber Security @ SRM Valliammai Engineering College";
+    String cgpa        = "9.0 / 10.0  (2023 – 2027)";
+    String role        = "Cyber Security Student | Java Full Stack Developer";
 
-    String[] stack = {
-        "Java", "Spring Boot", "Spring AI", "React.js",
-        "JSP", "Hibernate", "MySQL", "Docker", "Linux"
-    };
+    String[] languages = { "Java", "JavaScript", "HTML", "CSS", "SQL" };
 
     String[] currentlyLearning = {
-        "Advanced Ethical Hacking",
-        "Secure Code Design Patterns",
-        "Cloud Security & DevSecOps"
+        "Web Exploitation", "OWASP Top 10",
+        "Spring Security", "Docker", "eJPT Prep"
     };
 
-    String funFact = "I captained my badminton team AND "
-                   + "crack DSA problems before breakfast ☕";
+    String[] interests = {
+        "Ethical Hacking", "Secure App Development",
+        "DSA & Problem Solving", "Open Source"
+    };
 
     String motto() {
-        return "Build secure. Build scalable. Build smart. 🔐";
+        return "Security is not a product, but a process. "
+             + "Every secure application begins with secure code.";
     }
 }
 ```
-🔭 Currently building AI-powered tools and secure full-stack apps
-🌱 Exploring Spring Security, Ethical Hacking, and DevSecOps
-🏆 150+ DSA problems solved on LeetCode · 50+ SQL challenges · 100 SQL on Udemy
-🎯 Areas of Interest: Full Stack Web Dev, Cybersecurity, Problem Solving
-🌐 Portfolio: vijayajeevitha.github.io/Portfolio
-📫 Reach me: vvijayajeevitha01@gmail.com
-🗣️ Languages: English (Professional) · Tamil (Native)
+
 <br clear="right"/>
+
 ---
-🛠️ Tech Stack
-Languages
+
+## 🛠️ Tech Stack
+
+**Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP%2FServlets-007396?style=flat-square&logo=java&logoColor=white)
-![J2EE](https://img.shields.io/badge/J2EE-007396?style=flat-square&logo=java&logoColor=white)
-Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-Databases
+![J2EE](https://img.shields.io/badge/J2EE-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-003545?style=flat-square&logo=java&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-Tools & Platforms
+
+**Cybersecurity**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
+
 ---
-📊 GitHub Stats
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <a href="https://github.com/vijayajeevitha">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=vijayajeevitha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Vijaya Jeevitha's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/vijayajeevitha">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayajeevitha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vijayajeevitha&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayajeevitha&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8" />
+
 </div>
+
 ---
-🔥 Streak Stats
+
+## 🔥 GitHub Streak
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vijayajeevitha&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vijayajeevitha&theme=tokyonight&background=0d1117&hide_border=true)](https://git.io/streak-stats)
+
 </div>
+
 ---
-📈 Activity Graph
+
+## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayajeevitha&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vijayajeevitha&theme=tokyo-night&bg_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
+
 ---
-🏆 Trophy Wall
+
+## 🏆 Trophy Wall
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijayajeevitha&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=vijayajeevitha&theme=tokyonight&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
+
 ---
-💼 Roles & Responsibilities
-<details>
-<summary>🛡️ Executive Committee Member — White Hations Club · 2025 · SRM Valliammai</summary>
-> `Cybersecurity` `Community Building` `Event Management` `Leadership`
-Represented the club at college-level cybersecurity events and workshops
-Actively contributed to organizing awareness sessions and technical meetups
-Collaborated with members to promote ethical hacking and secure coding culture
-Supported club initiatives as part of the Promotional Committee in the same year
-</details>
-<details>
-<summary>📋 Registration & Organizing Committee — Symposium · 2025 · SRM Valliammai</summary>
-> `Event Coordination` `Team Collaboration` `Logistics` `Communication`
-Coordinated participant registration and managed event logistics end-to-end
-Ensured smooth execution of symposium activities across multiple tracks
-Worked cross-functionally with organizing teams to handle 200+ registrations
-Demonstrated strong communication and time-management skills under pressure
-</details>
-<details>
-<summary>🏅 Scout Leader — XII Standard · 2023 · J. Jeya Matriculation Hr. Sec. School</summary>
-> `Leadership` `Teamwork` `Community Service` `Discipline`
-Led a scout troop as the designated Scout Leader during the final school year
-Organized community service activities and team-building exercises
-Built strong foundations in leadership, discipline, and social responsibility
-Represented the school in inter-school scouting activities
-</details>
----
-🚀 Featured Projects
-<div align="center">
-🗂️ Project	🛠️ Stack	✨ Highlights
-🌦️ Weather Music Player	JavaScript · REST APIs · OpenWeatherMap	Detects real-time weather via city input and auto-plays mood-matched music · Full responsive UI
-🤖 AI ATS Resume Checker	Spring AI · Java · Spring Boot · React.js	Analyzes resumes against 50+ ATS keywords · Provides reasoning-based content & formatting suggestions
-🗓️ Life Companion – To-Do & Money Expenser	Java · Spring Boot · MySQL · JSP	All-in-one life management app — task tracking, expense management, and productivity tools in one platform
-🧮 Calculator & Landing Page	HTML · CSS · JavaScript	Responsive calculator + interactive landing page built during internship · Clean UI/UX with mobile-first layout
-</div>
----
-🏅 Achievements
-<div align="center">
-🥇	Achievement	Details
-🥈	2nd Prize – Trading Emperor	SRM Valliammai Engineering College · 2026 · Certificate 🔗
-🏆	Winner – CSI Decoders Ludo Competition	CSI Chapter · SRM Valliammai · 2026 · Certificate 🔗
-💻	150+ DSA Problems Solved	LeetCode · Interview-focused Data Structures & Algorithms
-🗄️	50+ SQL Challenges	LeetCode · Query optimization & database problem solving
-📚	100 SQL Exercises	Udemy · Mastering MySQL course practice set
-🏸	Team Captain – Badminton	District-level competitions · 2023
-🎯	District-Level Athlete	Throwball & Tennicoit · 2023
-</div>
----
-📜 Certifications
-<div align="center">
-📄 Certification	🏫 Platform	📅 Year
-Mastering MySQL: Database Creation, Management & SQL Queries	Udemy	2025
-Java Training Crash Course for Java Beginners	Udemy	2025
-Complete Ethical Hacking Masterclass: Zero to Hero	Udemy	2025
-Java EE, Web Development: Servlet, HTML/CSS, JSP, HTTP, Server	Udemy	2025
-Secure Code in Java and Spring Boot: Build Resilient Apps	Udemy	2025
-</div>
----
-🎓 Education
-<div align="center">
-🎓 Degree / Level	🏫 Institution	📅 Year	📊 Score
-B.E. Cyber Security	SRM Valliammai Engineering College	2023 – 2027	CGPA: 9.0
-HSC (Class XII)	J. Jeya Matriculation Hr. Sec. School	2023	90%
-SSLC (Class X)	J. Jeya Matriculation Hr. Sec. School	2022	80%
-</div>
----
-🌱 Currently Learning
+
+## 🔐 Cybersecurity Learning Roadmap
+
 ```
-🔐 Advanced Cybersecurity
-   ├── Ethical Hacking & Penetration Testing
-   ├── Network Security & Vulnerability Assessment
-   └── OWASP Top 10 Mitigation Strategies
+🛡️  CYBERSECURITY JOURNEY — IN PROGRESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-☁️ Cloud & DevSecOps
-   ├── Docker Containerization & Orchestration
-   ├── CI/CD Pipelines & Secure Deployment
-   └── Linux Server Hardening
+ [✅]  Linux Fundamentals & Command Line
+ [✅]  Networking Basics (TCP/IP, DNS, HTTP)
+ [✅]  Ethical Hacking Foundations
+ [✅]  Secure Coding in Java & Spring Boot
+ [🔄]  Web Security & OWASP Top 10
+ [🔄]  Burp Suite — Web App Testing
+ [🔄]  Web Exploitation Techniques
+ [🔄]  TryHackMe Labs
+ [⏳]  Hack The Box Challenges
+ [⏳]  eJPT Certification Preparation
+ [⏳]  Active Directory & Privilege Escalation
 
-🧠 DSA & System Design
-   ├── Advanced Data Structures (Graphs, Trees, DP)
-   ├── Low-Level System Design Patterns
-   └── LeetCode — targeting 300+ problems
-
-🌐 Full Stack Advancement
-   ├── Spring Security & JWT Authentication
-   ├── Microservices Architecture
-   └── React.js — Hooks, Redux, Performance
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅ Done   🔄 In Progress   ⏳ Upcoming
 ```
+
 ---
-🤝 Connect With Me
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description | Highlights |
+|---|---|---|---|
+| [🤖 AI ATS Resume Checker](https://github.com/vijayajeevitha/ai-resume-auditor) | Spring AI · Java · Spring Boot · REST APIs | AI-powered resume analyzer that evaluates resumes against 50+ ATS keywords and delivers reasoning-based suggestions for content, wording, and formatting improvements | 50+ keyword engine · AI reasoning · Formatting audit |
+| [🌦️ Weather Music Player](https://github.com/vijayajeevitha/weather-music-player) | JavaScript · HTML · CSS · Weather API | Dynamic music player that detects real-time weather by city input and curates mood-matched music automatically | Real-time weather detection · Mood-based playlist · Responsive UI |
+| [💻 Calculator & Landing Page](https://github.com/vijayajeevitha/CODESOFT/tree/main/INTERNSHIPS) | HTML · CSS · JavaScript | Responsive, interactive calculator and landing page built during internship, featuring clean UI design and mobile-first layouts | Interactive UI · Responsive layouts · Clean design |
+
+---
+
+## 🎓 Certifications
+
+| Certification | Platform | Year |
+|---|---|---|
+| 🗄️ [Mastering MySQL: Database Creation, Management & SQL Queries](https://www.udemy.com/certificate/UClbla7370-048f-4da1-bf39-bad96ce1352/) | Udemy | 2025 |
+| ☕ [Java Training Crash Course for Beginners](https://www.udemy.com/certificate/UCaff12fc4-6ae7-4744-384-0bac831d50u1/) | Udemy | 2025 |
+| 🔓 [Complete Ethical Hacking Masterclass: Zero to Hero](https://www.udemy.com/certificate/UCcbbc0f98-119a-490e-8633-c275ddc0c0d4/) | Udemy | 2025 |
+| 🌐 [Java EE Web Development: Servlet, HTML/CSS, JSP, HTTP, Server](https://www.udemy.com/certificate/UCcbbc0f98-119a-490e-8633-c275ddc0c0d4/) | Udemy | 2025 |
+| 🛡️ [Secure Code in Java and Spring Boot: Build Resilient Apps](https://www.udemy.com/certificate/UCa58ab690-2442-486-90ac-c1157e227fc8/) | Udemy | 2025 |
+
+---
+
+## 🏅 Achievements
+
 <div align="center">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)
-![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+
+| 🏆 Achievement | 📋 Details |
+|:---:|:---:|
+| 🥈 Trading Emperor — Runner Up | SRM Valliammai Engineering College · 2026 |
+| 🥇 CSI Decoders Ludo Competition — Winner | CSI Chapter · 2026 |
+| 💡 150 DSA Problems Solved | LeetCode — Interview Prep |
+| 🗄️ 50 SQL Challenges Completed | LeetCode SQL Track |
+| 📘 100 SQL Exercises Completed | Udemy Practice Courses |
+| 🏸 District-Level Sports Representative | Throwball & Tennicoit · 2023 |
+
 </div>
+
+---
+
+## 🌟 Currently Learning
+
+```
+╔══════════════════════════════════════════════════════╗
+║           🔭  CURRENT FOCUS  —  2025-2026           ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  → Web Exploitation Techniques                       ║
+║  → OWASP Top 10 Vulnerabilities                      ║
+║  → Spring Security & JWT Authentication              ║
+║  → Secure Coding Practices                           ║
+║  → Docker & Containerization                         ║
+║  → Ethical Hacking Labs (TryHackMe)                  ║
+║  → eJPT Certification Preparation                    ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 👩‍💼 Leadership & Responsibilities
+
+<details>
+<summary><b>🏴 White Hations Club — Executive & Promotional Committee Member (2025)</b></summary>
+<br/>
+Served as both Executive and Promotional Committee Member at the White Hations Club, actively contributing to cybersecurity awareness initiatives, event planning, and member engagement activities within the college community.
+</details>
+
+<details>
+<summary><b>📋 Symposium Organizing Committee — Registration & Organizing Member (2025)</b></summary>
+<br/>
+Managed registration workflows and coordinated logistics for the college technical symposium, ensuring smooth participant onboarding, session scheduling, and on-ground event execution for a large-scale academic event.
+</details>
+
+<details>
+<summary><b>🦅 Scout Leader — XII Standard (2023)</b></summary>
+<br/>
+Led a scout unit during secondary school, demonstrating strong leadership, discipline, and community service values. Developed team management and coordination skills through structured scouting programs and activities.
+</details>
+
+---
+
+## 🎓 Education
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijayajeevitha&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+| 🎓 Qualification | 🏛️ Institution | 📅 Year | 📊 Score |
+|:---:|:---:|:---:|:---:|
+| B.E Cyber Security | SRM Valliammai Engineering College | 2023 – 2027 | CGPA: 9.0 |
+| HSC (Class XII) | J. Jeya Matriculation Hr. Sec. School | 2023 | 90% |
+| SSLC (Class X) | J. Jeya Matriculation Hr. Sec. School | 2022 | 80% |
+
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+---
+
+<div align="center">
+
+### 💬 Developer Philosophy
+
+> *"Security is not a product, but a process.*
+> *Every secure application begins with secure code."*
+
+---
+
+*✨ Open to Cybersecurity & Full Stack Internships — Let's connect and build something secure!*
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijaya-jeevitha-631841301/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vijayajeevitha.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvijayajeevitha01@gmail.com)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
